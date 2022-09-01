@@ -1,0 +1,15 @@
+{
+  "name": "listen",
+  "version": "1.0.0",
+  "description": "How to Listen To Smart Contract Events using ethers.js & node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blessing.eth",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.0"
+  }
+}
